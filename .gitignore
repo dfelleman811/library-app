@@ -1,6 +1,8 @@
 # Compiled class file
 *.class
 connection.properties
+/target
+
 # Log file
 *.log
 
